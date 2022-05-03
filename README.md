@@ -4,7 +4,7 @@
 ## my stack
 
 ### HTML 
-- for content
+-[HTML](HTML5_Badge_32.png) for content
 ### CSS 
 - for style
 ### JavaScript 
