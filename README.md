@@ -11,30 +11,16 @@
 
 ## my stack
  
-![HTML](HTML5_Badge_32.png) for content
+![HTML](WebSVG/html.svg) for content
  
-![CSS](CSS3_Badge_32.png) for style
+![CSS](WebSVG/css.svg) for style
 
+![CSS](WebSVG/javascript.svg) for frontend functions
+ 
+![CSS](WebSVG/php.svg) for API
+ 
+![CSS](WebSVG/sqlite.svg) for data
+ 
+![CSS](WebSVG/vsc.svg) to glue everything together
 
-### JavaScript 
-- for frontend functions
-### PHP 
-- for API
-### SQLite 
-- for data
-### VSCode 
-- to glue everything together
-
-
-### HTML 
-- HTML for content
-### CSS 
-- for style
-### JavaScript 
-- for frontend functions
-### PHP 
-- for API
-### SQLite 
-- for data
-### VSCode 
-- to glue everything together
+ 
