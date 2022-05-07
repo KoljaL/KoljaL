@@ -1,9 +1,4 @@
- 
-![gh-kpubrain.svg](https://rasal.de/img/gh-profile100.svg) 
- 
-<a href="https://github.com/KoljaL">
-  <img align="center" src="https://rasal.de/img/gh-profile100.svg" />
-</a>
+<a href="https://github.com/KoljaL"><img align="right" src="https://rasal.de/img/gh-profile100.svg" /></a>
 
 
 ## my stack
