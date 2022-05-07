@@ -3,17 +3,9 @@
 
 ## my stack
  
-![HTML](WebSVG/html.svg) for content
- 
-![CSS](WebSVG/css.svg) for style
-
-![CSS](WebSVG/javascript.svg) for frontend functions
- 
-![CSS](WebSVG/php.svg) for API
- 
-![CSS](WebSVG/sqlite.svg) for data
- 
-![CSS](WebSVG/vsc.svg) to glue everything together
+I use ![HTML](WebSVG/html.svg) for content, ![CSS](WebSVG/css.svg) for style and the frontend fuctions are made with ![JS](WebSVG/javascript.svg).  
+For my APIs I use ![PHP](WebSVG/php.svg) and to store the data ![SQLITE](WebSVG/sqlite.svg).  
+With ![VSC](WebSVG/vsc.svg) I glue everything together.
 
 ## my github profile
 
